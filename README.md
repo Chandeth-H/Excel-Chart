@@ -17,6 +17,11 @@
 ## 6. Donut Chart
 <img width="1277" height="521" alt="image" src="https://github.com/user-attachments/assets/6355c04a-bb37-4842-bce7-b7b88927e8f3" />
 
+<img width="486" height="383" alt="image" src="https://github.com/user-attachments/assets/226c0b98-6a14-4cf7-b67e-f7134463ed97" />
+
+<img width="473" height="384" alt="image" src="https://github.com/user-attachments/assets/b75e40e6-c560-4a81-9f83-82701ff8cdfa" />
+
+
 ## 7. Half Donut Chart
 <img width="1105" height="256" alt="image" src="https://github.com/user-attachments/assets/c65a915d-80ba-4c21-b71b-2db03055ac2a" />
 
